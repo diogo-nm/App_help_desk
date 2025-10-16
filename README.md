@@ -18,6 +18,7 @@ Sistema de Help Desk desenvolvido em **PHP**, com login, abertura e consulta de 
 
 ## 🗂 Estrutura do Projeto
 
+```
 xampp/htdocs/app_help_desk/ # Diretório público (acesso via localhost/app_help_desk)
 ├── index.php # Tela de login
 ├── home.php # Menu principal
@@ -32,6 +33,7 @@ xampp/htdocs/app_help_desk/ # Diretório público (acesso via localhost/app_help
 xampp/app_help_desk/ # Diretório sensível (fora do público)
 └── valida_login.php # Script de validação do login
 └── arquivo.txt # Armazenamento de chamados
+```
 
 ## 🚀 Como Rodar
 
