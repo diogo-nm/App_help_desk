@@ -1,0 +1,5 @@
+3;Piriquito falante;Criação Usuário;Acho que estou ficando louco
+3;Impressora quebrada;Impressora;A impressora só imprime a cara de um esquilo
+4;Cocô;Criação Usuário;To todo cagado
+4;Sem internet;Rede;To jogando o jogo do dinossauro faz 3 hrs
+1;Explosão ;Hardware;Alguém explodiu a privada no setor 3
